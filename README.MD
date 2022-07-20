@@ -10,17 +10,17 @@
     <br />
   </p>
   <p align="center">
-  <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
+  <a href="https://youtube.com/channel/UCZhPEQ12VO30h8J2f8OASJA">
         <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
   </p>
 <hr>
   
 ## About This Bot
 
-<b><a href="https://www.github.com/Aadhi000" title="Dollow">Follow Me For Updates</a></b>
+<b><a href="https://www.github.com/naveen211203" title="Dollow">Follow Me For Updates</a></b>
 
 <p align="center">
-    <a href="https://github.com/Aadhi000/File-To-Link">
+    <a href="https://github.com/naveen211203/File-To-Link">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
@@ -145,6 +145,6 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Adarsh Goel_(me)](https://github.com/adarsh-goel)
-- [DeekshithSH](https://github.com/DeekshithSH) 
+- [Tgbots_tech_(me)](https://github.com/naveen211203)
+- [Tgbots_tech](https://github.com/naveen211203) 
 - Everyone In This Journey !
