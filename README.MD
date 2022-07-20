@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="https://github.com/naveen211203/File-To-Link">
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
+        <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo"(https://t.me/Tgbots_tech>
     </a>
 </p>
 <p align='center'>
