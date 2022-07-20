@@ -17,7 +17,7 @@
 <b><a href="https://www.github.com/naveen211203" title="Dollow">Follow Me For Updates</a></b>
 
 <p align="center">
-    <a href="https://github.com/naveen211203/File-To-Link">
+    <a href="https://t.me/Tgbots_tech">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo"(https://t.me/Tgbots_tech>
     </a>
 </p>
