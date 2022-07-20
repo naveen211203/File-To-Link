@@ -1,6 +1,5 @@
 **<h1 align="center">𝚃𝙶 𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃</h1>**
-<p align="center">
-  <a href="https://youtu.be/W4wSOZw8GXk">
+<phttps://youtu.be/qwlpjoxalgw">
     <img src="https://telegra.ph/file/a2303826e0c6d18bf9cab.jpg">
   </a>
   <p align="center">
@@ -136,8 +135,6 @@ DATABASE_URL=mongodb_uri
 `/start` : To check if the bot is alive or not.
 
 To get an instant stream link, just forward any media to the bot and boom, its fast af.
-  
-![image](https://user-images.githubusercontent.com/88939380/145798095-3cdad108-96b0-4391-a540-cad144d6b864.png)
 
 
 ### Channel Support
@@ -145,6 +142,6 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Tgbots_tech_(me)](https://github.com/naveen211203)
-- [Tgbots_tech](https://github.com/naveen211203) 
+- [Tgbots_tech(me)](https://github.com/naveen211203)
+- [JOIN TELEGRAM CHANNEL:-Tgbots_tech](https://t.me/Tgbots_tech) 
 - Everyone In This Journey !
